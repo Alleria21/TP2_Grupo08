@@ -35,5 +35,6 @@ public class Principal_ejercicio13 {
 		}
 		Empleado unEmpleado = new Empleado(nombre, fecha2, legajo, email, horas,total);// Se agrega los caracteristicas a una persona, parametrizada 
 		System.out.println(unEmpleado.toString());
+		feh.close();
 		}
 }
