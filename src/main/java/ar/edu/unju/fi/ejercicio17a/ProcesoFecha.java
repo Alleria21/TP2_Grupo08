@@ -10,12 +10,12 @@ import java.time.format.DateTimeFormatter;
 
 public class ProcesoFecha {
 	
-	LocalDate fecha1;
-	LocalDate fecha2;
-	LocalTime time1;
-	LocalTime time2;
-	LocalDateTime dateTime1;
-	LocalDateTime dateTime2;
+	private LocalDate fecha1;
+	private LocalDate fecha2;
+	private LocalTime time1;
+	private LocalTime time2;
+	private LocalDateTime dateTime1;
+	private LocalDateTime dateTime2;
 	
 	
 	public ProcesoFecha() {
