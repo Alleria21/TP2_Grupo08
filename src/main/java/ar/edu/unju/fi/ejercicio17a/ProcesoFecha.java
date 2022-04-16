@@ -75,7 +75,6 @@ public class ProcesoFecha {
 		}
 	}
 	
-	
 	public LocalDate getFecha1() {
 		return fecha1;
 	}
